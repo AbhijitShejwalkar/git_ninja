@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Welcome to git ninja
-=======
 Welcome to git ninja 
 good night
->>>>>>> e1fecde9c2f6d4fa6d305efc545d6aa40d4ac8c3
